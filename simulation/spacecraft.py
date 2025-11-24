@@ -24,7 +24,7 @@ VEHICLES = {
         isp=380,         
         fuel_capacity=1200000,
         # 사용자 제공 URL
-        img_url="https://spaceanddefense.io/wp-content/smush-webp/2025/01/Space.-Photo-71.-Starship.-SpaceX.-13.01.25.jpg.webp", 
+        img_url="https://images-assets.nasa.gov/image/KSC-71PC-0571/KSC-71PC-0571~large.jpg?w=1920&h=1536&fit=crop&crop=faces%2Cfocalpoint", 
         description="Fully reusable. Optimization assumes orbital refueling is complete."
     ),
     "Apollo Saturn V": Vehicle(
@@ -33,7 +33,7 @@ VEHICLES = {
         isp=421,          
         fuel_capacity=110000,
         # 사용자 제공 URL
-        img_url="https://i.namu.wiki/i/0016QwzmMc0CIZBugJlA6nHhNW29TJKUIj1xz7RhLh2kCOUeO_uSCjvYvgdkpUmrwBY7KZ21BANtr7pEnVSehF8WQz6Q_NyIJKfRu1D1VSKwdO_VHL_GzqSg-61VFkB6HfHneU5bEcSzc33Ihk6pHw.webp",
+        img_url="https://i.namu.wiki/i/0016QwzmMcCIZBuJl6nHhNW29TJKUIj1xz7RhLh2kCOUeO_uSCjvYgdkpUmrwBY7KZ21BANtr7pEnVSehF8WQz6Q_NyIJKfRu1D1VSKwdO_VHL_GzqSg-61VFkB6HfHneU5bEcSzc33Ihk6pHw.webp",
         description="Expendable 3-stage rocket. S-IVB stage used for TLI."
     ),
     "SLS Block 1B": Vehicle(
