@@ -33,7 +33,7 @@ VEHICLES = {
         isp=421,          
         fuel_capacity=110000,
         # 사용자 제공 URL
-        img_url="https://i.namu.wiki/i/0016QwzmMcCIZBuJl6nHhNW29TJKUIj1xz7RhLh2kCOUeO_uSCjvYgdkpUmrwBY7KZ21BANtr7pEnVSehF8WQz6Q_NyIJKfRu1D1VSKwdO_VHL_GzqSg-61VFkB6HfHneU5bEcSzc33Ihk6pHw.webp",
+        img_url="https://images-assets.nasa.gov/image/KSC-71PC-0571/KSC-71PC-0571~large.jpg?w=1920&h=1536&fit=crop&crop=faces%2Cfocalpoint",
         description="Expendable 3-stage rocket. S-IVB stage used for TLI."
     ),
     "SLS Block 1B": Vehicle(
