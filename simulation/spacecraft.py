@@ -24,7 +24,7 @@ VEHICLES = {
         isp=380,         
         fuel_capacity=1200000,
         # 사용자 제공 URL
-        img_url="https://images-assets.nasa.gov/image/KSC-71PC-0571/KSC-71PC-0571~large.jpg?w=1920&h=1536&fit=crop&crop=faces%2Cfocalpoint", 
+        img_url="https://cdn.digitaltoday.co.kr/news/photo/202411/540369_504944_5721.jpg", 
         description="Fully reusable. Optimization assumes orbital refueling is complete."
     ),
     "Apollo Saturn V": Vehicle(
